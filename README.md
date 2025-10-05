@@ -1,4 +1,4 @@
-# Railway-Management-System-Website
+# SmartRailX
 
 This project is a web application for booking railway tickets, checking PNR status, and checking in for trips. Let's break down its key components and functionality:
 
